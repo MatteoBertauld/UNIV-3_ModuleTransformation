@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModuleTransformation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4814297a1fc29b5a7552790efa159d1458f77a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModuleTransformation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModuleTransformation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

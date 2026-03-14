@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matte\\source\\repos\\ModuleTransformation\\ModuleTransformation.csproj": {}
+    "C:\\Users\\matte\\source\\repos\\ModuleTransformation\\UNIV-3_ModuleTransformation\\ModuleTransformation\\ModuleTransformation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matte\\source\\repos\\ModuleTransformation\\ModuleTransformation.csproj": {
+    "C:\\Users\\matte\\source\\repos\\ModuleTransformation\\UNIV-3_ModuleTransformation\\ModuleTransformation\\ModuleTransformation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matte\\source\\repos\\ModuleTransformation\\ModuleTransformation.csproj",
+        "projectUniqueName": "C:\\Users\\matte\\source\\repos\\ModuleTransformation\\UNIV-3_ModuleTransformation\\ModuleTransformation\\ModuleTransformation.csproj",
         "projectName": "ModuleTransformation",
-        "projectPath": "C:\\Users\\matte\\source\\repos\\ModuleTransformation\\ModuleTransformation.csproj",
+        "projectPath": "C:\\Users\\matte\\source\\repos\\ModuleTransformation\\UNIV-3_ModuleTransformation\\ModuleTransformation\\ModuleTransformation.csproj",
         "packagesPath": "C:\\Users\\matte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matte\\source\\repos\\ModuleTransformation\\obj\\",
+        "outputPath": "C:\\Users\\matte\\source\\repos\\ModuleTransformation\\UNIV-3_ModuleTransformation\\ModuleTransformation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

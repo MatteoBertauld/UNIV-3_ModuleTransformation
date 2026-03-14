@@ -9,3 +9,15 @@ C:\Users\matte\source\repos\ModuleTransformation\obj\Debug\net8.0\ModuleTransfor
 C:\Users\matte\source\repos\ModuleTransformation\obj\Debug\net8.0\refint\ModuleTransformation.dll
 C:\Users\matte\source\repos\ModuleTransformation\obj\Debug\net8.0\ModuleTransformation.pdb
 C:\Users\matte\source\repos\ModuleTransformation\obj\Debug\net8.0\ref\ModuleTransformation.dll
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\bin\Debug\net8.0\ModuleTransformation.deps.json
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\bin\Debug\net8.0\ModuleTransformation.dll
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\bin\Debug\net8.0\ModuleTransformation.pdb
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\obj\Debug\net8.0\ModuleTransformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\obj\Debug\net8.0\ModuleTransformation.AssemblyInfoInputs.cache
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\obj\Debug\net8.0\ModuleTransformation.AssemblyInfo.cs
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\obj\Debug\net8.0\ModuleTransformation.csproj.CoreCompileInputs.cache
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\obj\Debug\net8.0\ModuleTransformation.sourcelink.json
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\obj\Debug\net8.0\ModuleTransformation.dll
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\obj\Debug\net8.0\refint\ModuleTransformation.dll
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\obj\Debug\net8.0\ModuleTransformation.pdb
+C:\Users\matte\source\repos\ModuleTransformation\UNIV-3_ModuleTransformation\ModuleTransformation\obj\Debug\net8.0\ref\ModuleTransformation.dll

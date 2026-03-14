@@ -16,14 +16,16 @@ namespace ModuleTransformation
         public List<List<KeyValuePair<string, object>>> Produits { get; set; }
 
         // Constructor
-        public Extraction()
+        public Extraction(string rapport)
         {
             Produits = new List<List<KeyValuePair<string, object>>>();
+
+            Extraire_rapport(rapport);
         }
 
         
 
-        public bool extraire_rapport(string rapport)
+        public bool Extraire_rapport(string rapport)
         {
 
             using (JsonDocument doc = JsonDocument.Parse(rapport))
